@@ -1,2 +1,2 @@
-# issues-repo...the
+# issues-repo
 repo
