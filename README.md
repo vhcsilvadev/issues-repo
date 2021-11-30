@@ -1,3 +1,1 @@
 # issues-repo
-changes
-.
